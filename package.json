@@ -1,0 +1,31 @@
+{
+  "name": "benchmark-fn-list",
+  "version": "1.0.0",
+  "description": "Run an array of benchmkars with benchmark-fn",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "benchmark",
+    "list",
+    "function",
+    "time"
+  ],
+  "homepage": "https://github.com/Qard/benchmark-fn-list#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/benchmark-fn-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/benchmark-fn-list/issues"
+  },
+  "dependencies": {
+    "benchmark-fn": "^1.0.2"
+  },
+  "devDependencies": {
+    "tap": "^11.1.2"
+  }
+}
