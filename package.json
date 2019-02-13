@@ -26,6 +26,6 @@
     "benchmark-fn": "^1.0.2"
   },
   "devDependencies": {
-    "tap": "^11.1.2"
+    "tap": "^12.5.2"
   }
 }
